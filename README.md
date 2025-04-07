@@ -1,11 +1,11 @@
-# AutoEmbed-AI 🚀  
+AutoEmbed-AI 
 > AI-Powered Co-Design Framework for Fully Autonomous Embedded Systems  
 
 ![System Architecture](A_flowchart_in_a_digital_vector_graphic_illustrate.png)
 
 ---
 
-## 📌 소개
+소개
 
 **AutoEmbed-AI**는 사용자의 요구사항만 입력하면,
 AI가 자동으로 하드웨어(MCU)와 소프트웨어(드라이버, 제어 로직, RTOS 등)를 선택하여  
@@ -15,7 +15,7 @@ AI가 자동으로 하드웨어(MCU)와 소프트웨어(드라이버, 제어 로
 
 ---
 
-## ⚙️ 주요 기능
+주요 기능
 
 - 자연어 요구사항 → 자동 분석
 - AI 기반 하드웨어 선택 (예: ESP32, DHT22 등)
@@ -25,12 +25,12 @@ AI가 자동으로 하드웨어(MCU)와 소프트웨어(드라이버, 제어 로
 
 ---
 
-## 🧠 사용 예시
+사용 예시
 
-### 🗣️ 사용자 입력  
+사용자 입력  
 > "온도 센서를 이용해서 특정 온도 이상일 때 팬을 켜는 시스템"
 
-### 🔧 생성 결과  
+생성 결과  
 - MCU: ESP32  
 - 센서: DHT22  
 - 출력: 팬 제어  
@@ -39,13 +39,13 @@ AI가 자동으로 하드웨어(MCU)와 소프트웨어(드라이버, 제어 로
 
 ---
 
-## 🧪 시스템 구조도
+시스템 구조도
 
 ![Architecture](A_flowchart_in_a_digital_vector_graphic_illustrate.png)
 
 ---
 
-## 📁 포함된 파일
+포함된 파일
 
 | 파일 | 설명 |
 |------|------|
@@ -55,7 +55,7 @@ AI가 자동으로 하드웨어(MCU)와 소프트웨어(드라이버, 제어 로
 
 ---
 
-## 🛠️ 향후 계획
+향후 계획
 
 - 다양한 센서/출력 장치 지원 확대
 - GPT 연동한 자연어 코드 생성
@@ -64,9 +64,9 @@ AI가 자동으로 하드웨어(MCU)와 소프트웨어(드라이버, 제어 로
 
 ---
 
-## 🙌 만든 사람
+만든 사람
 
 **Gyeongjin0123**  
-> 프로젝트에 공감하셨다면 ⭐️ Star 부탁드립니다!
+
 
 ---
